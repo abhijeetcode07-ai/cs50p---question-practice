@@ -1,3 +1,22 @@
+# =========================================
+# Question:
+# Write a Python program to create a simple calculator.
+#
+# Requirements:
+# 1. Take two numbers as input from the user.
+# 2. Take an operator input from the user (+, -, *, /).
+# 3. Perform the arithmetic operation based on the operator.
+# 4. Display the result.
+# 5. Handle division by zero with an appropriate message.
+#
+# Example:
+# Enter first number: 10
+# Enter operator: /
+# Enter second number: 0
+# Error: Division by zero is not allowed.
+# =========================================
+
+
 def calculator() :
     while True :
         try :

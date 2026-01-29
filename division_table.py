@@ -1,3 +1,26 @@
+# =========================================
+# Question:
+# Write a Python program to generate the division table of a number.
+#
+# Requirements:
+# 1. Take an integer input from the user.
+# 2. Print the division results from 1 to 10.
+# 3. Each line should display:
+#       number / i = result
+# 4. Use a loop to generate the table.
+#
+# Example:
+# Input: 6
+# Output:
+# 6 / 1 = 6.0
+# 6 / 2 = 3.0
+# 6 / 3 = 2.0
+# ...
+# 6 / 10 = 0.6
+# =========================================
+
+
+
 def main() :
     while True :
         try :

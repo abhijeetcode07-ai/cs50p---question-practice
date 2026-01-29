@@ -1,3 +1,18 @@
+# =========================================
+# Question:
+# Write a Python program to check if a number is prime or not.
+#
+# Requirements:
+# 1. Take an integer input from the user.
+# 2. Check whether the number is prime.
+# 3. Print "Prime" if it is prime, otherwise print "Not Prime".
+#
+# Example:
+# Input: 13
+# Output: Prime
+# =========================================
+
+
 def is_prime(n) :
     
     if n<2 :

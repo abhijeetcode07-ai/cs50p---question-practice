@@ -1,3 +1,19 @@
+# =========================================
+# Question:
+# Write a Python program to find the maximum of three numbers.
+#
+# Requirements:
+# 1. Take three numbers as input from the user.
+# 2. Compare the numbers to find the largest.
+# 3. Print the largest number.
+#
+# Example:
+# Input: 10, 25, 7
+# Output: The largest number is 25
+# =========================================
+
+
+
 def find_max() :
     while True :
         try :

@@ -1,3 +1,19 @@
+# =========================================
+# Question:
+# Write a Python program to check if a number is even or odd.
+#
+# Requirements:
+# 1. Take an integer input from the user.
+# 2. Check if the number is even or odd.
+# 3. Print "Even" if the number is even, otherwise print "Odd".
+#
+# Example:
+# Input: 7
+# Output: Odd
+# =========================================
+
+
+
 def check_even_odd():
     while True :
         try :
